@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 2 09:48:58 2021
 
-@author: M.Padilla
+@author: user
 """
 
 def secondlargest(array):
